@@ -1,0 +1,39 @@
+# Misc
+*.pyc
+*/debug.py
+*/tutorial.py
+
+# Data
+data/*/*
+*/data
+
+*.mid
+
+*.npy
+*.npz
+*.hi
+
+*.json
+*.jsonl
+*.csv
+
+*.jpg
+*.png
+*.pdf
+
+*.zip
+
+# Models
+*.pt
+*.bin
+*.model
+pretrained
+code/models/commonlit
+code/models/easse
+
+# Results
+results
+
+# sh
+*.err
+*.out
