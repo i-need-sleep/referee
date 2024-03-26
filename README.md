@@ -12,6 +12,6 @@ pip install -r requirements.txt
 
 ## Training
 * Generate the pretraining/finetuning data.
-* Modify and run [train_debeta.py](https://github.com/i-need-sleep/referee/blob/main/code/train_deberta.py).
+* Modify and run [train_deberta.py](https://github.com/i-need-sleep/referee/blob/main/code/train_deberta.py).
 
 ## Citation
