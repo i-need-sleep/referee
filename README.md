@@ -1,4 +1,4 @@
-# Code and data for REFeREE: A REference-FREE Model-Based Metric for Text Simplification (LERC-COLING 2024).
+# Code and data for [REFeREE: A REference-FREE Model-Based Metric for Text Simplification](https://arxiv.org/abs/2403.17640) (LERC-COLING 2024).
 
 ## Inference
 * Install the requirements:
